@@ -1,13 +1,15 @@
-## Olá!! Eu sou o Renato Negreiros!👋
+<h1>## Olá!! Eu sou o Renato Negreiros!👋</h1>
 
 - 🔭 Hoje trabalho como Engenheiro de Redes e Telecomunicações.
 - 🌱 Estudando atualmente: 5G e Seguranção da informação.
 - 📫 Contate-me pelo email: rsilva.negreiros@gmail.com
 - 😄 Pronouns: ele/dele
 
+<p>Atualmente trabalhando como Engenheiro de Redes e Telecomunicações com foco na área do 5G, DevOps e CyberSegurança.</p>
+A maior parte dos meus repositórios públicos no Github são projetos de código aberto que desenvolvi ou clonei para estudos. Sinta-se livre para efetuar sua cópia e apontar melhorias.
+
+##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RsilvaNegreiros&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ##
 
 <div>
