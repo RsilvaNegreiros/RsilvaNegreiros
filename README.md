@@ -2,7 +2,7 @@
 <h2>Renato Negreiros aqui!!!🙋🏽‍♂️</h2>
 
 - 🔭 Hoje trabalho como Engenheiro de Redes e Telecomunicações.
-- 🌱 Estudando atualmente: 5G e Seguranção da informação.
+- 🌱 Estudando atualmente: DevOps e 5G.
 - 📫 Contate-me pelo email: rsilva.negreiros@gmail.com
 - 😄 Pronouns: ele/dele
 
